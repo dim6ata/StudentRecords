@@ -3,8 +3,7 @@
 
 An application that allows a user to perform CRUD operations on student records. 
 
-Application Screenshots: 
-
+### Application Screenshots: 
 
 - <b>Home Page:</b>
 
